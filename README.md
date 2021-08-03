@@ -1,7 +1,16 @@
 # Auto-Pagination
 
 ### this script works with Bootstrap but can be modified to adapt other situations.
-The AutoPagination() function automatically render the pagination component base on your needs.
+The **AutoPagination()** function automatically render the pagination component base on your needs. The component will include:
+- PREVIOUS button
+- the first page #
+- ...
+- current page # - 1
+- current page #
+- current page # + 1
+- ...
+- the last page #
+- NEXT button
 
 | Parameter        	| Data Type 	| Example             	| Description                                                                                                                                                                                                                                              	|
 |------------------	|-----------	|---------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
